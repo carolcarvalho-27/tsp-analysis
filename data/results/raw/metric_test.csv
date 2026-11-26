@@ -1,0 +1,6 @@
+instance,n,is_metric,max_triangle_violation,triangle_violation_count,strategy,status,not_applicable_reason,initial_cost,best_cost,warm_start_seconds,bnb_elapsed_seconds,bnb_time_for_analysis,total_seconds,expanded_nodes,pruned_nodes,max_depth,timed_out,time_limit_seconds,peak_traced_memory_delta_mb
+ulysses16,16,True,0.0,0,cold_start,timed_out,,9665,7004,3.329999162815511e-05,10.00002060001134,,10.000472499988973,9502,49499,16,True,10.0,0.0074920654296875
+ulysses16,16,True,0.0,0,nearest_neighbor,timed_out,,9988,7004,0.00043590000132098794,10.000106899999082,,10.000838799984194,10788,56486,16,True,10.0,0.005950927734375
+ulysses16,16,True,0.0,0,convex_hull_insertion,timed_out,,6972,6972,0.0037859999865759164,10.00008140000864,,10.0040487999795,9366,49803,14,True,10.0,0.00849151611328125
+ulysses16,16,True,0.0,0,twice_around_tree,timed_out,,7796,7004,0.03116700000828132,10.000026100024115,,10.03147300001001,10804,56703,16,True,10.0,0.1017751693725586
+ulysses16,16,True,0.0,0,christofides,timed_out,,6983,6983,0.014876000001095235,10.000259799999185,,10.015312699979404,10823,57746,14,True,10.0,0.10424137115478516

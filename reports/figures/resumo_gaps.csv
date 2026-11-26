@@ -1,0 +1,6 @@
+strategy,count,mean,median,min,max
+christofides,4,10.11,10.34,5.37,14.39
+cold_start,4,88.89,81.88,21.66,170.13
+convex_hull_insertion,1,0.0,0.0,0.0,0.0
+nearest_neighbor,4,16.87,20.25,4.89,22.09
+twice_around_tree,4,22.76,22.41,14.92,31.29
